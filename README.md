@@ -3,7 +3,7 @@
 
 
 # Cloudflare 1020 Bypass Examples (Python & Node.js)
-[![HasData_bannner](banner.png)](https://hasdata.com/)
+[![HasData_bannner](banner.png)](https://hasdata.com/?utm_source=github&utm_medium=syndication&utm_campaign=cloudflare-1020)
 
 This repo contains working examples of bypassing **Cloudflare 1020** errors using **Playwright + Stealth** with **residential proxies**, **rotating headers**, and **basic anti-bot evasion tricks**. Works in **Node.js** and **Python**.
 
@@ -155,7 +155,7 @@ All combined: stealth, headers, proxies, behavior — in one script.
 
 ## Disclaimer
 
-These examples are for **educational purposes** only. Learn more about [the legality of web scraping](https://hasdata.com/blog/is-web-scraping-legal).
+These examples are for **educational purposes** only. Learn more about [the legality of web scraping](https://hasdata.com/blog/is-web-scraping-legal?utm_source=github&utm_medium=syndication&utm_campaign=cloudflare-1020).
 
 
 
