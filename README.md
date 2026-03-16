@@ -161,6 +161,6 @@ These examples are for **educational purposes** only. Learn more about [the lega
 
 ## 📎 More Resources
 
-* [How to Bypass Cloudflare 1020](https://hasdata.com/blog/bypass-cloudflare-1020)
-* [Join the community on Discord](https://email.hasdata.com/e/c/eyJlbWFpbF9pZCI6ImRnU2RrUWdEQVBENUF1XzVBZ0dXcXhUNGdSTk12RXZEb0pPM3UxUT0iLCJocmVmIjoiaHR0cHM6Ly9oYXNkYXRhLmNvbS9qb2luLWRpc2NvcmQiLCJpbnRlcm5hbCI6IjlkOTEwODAxYmY4ZjAxZjBmOTAyIiwibGlua19pZCI6MjMzfQ/7b95f85846853ee473b2d955c1e158190975e23eb18b11156d6df08e1f544488)
+* [How to Bypass Cloudflare 1020](https://hasdata.com/blog/bypass-cloudflare-1020?utm_source=github&utm_medium=syndication&utm_campaign=cloudflare-1020)
+* [Join the community on Discord](https://discord.com/invite/kckPcEdGWs)
 * [Star this repo if helpful ⭐](#)
